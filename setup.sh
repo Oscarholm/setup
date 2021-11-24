@@ -1,5 +1,6 @@
 #!/bin/bash
 # Simple setup.sh for configuring Ubuntu LTS EC2 instance
+# Could potentially add logic to make same file work for new MacOS setup as well.
 # for headless setup. 
 
 # Install programs
